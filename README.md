@@ -2,7 +2,6 @@ This is a React Native application that fetches and displays random user profile
 
 Features
 Fetches random user profiles from an API.
-Displays user profiles with a fade-in and fade-out transition effect.
 Allows navigation through profiles using "Prev" and "Next" buttons.
 Disables navigation buttons when at the first or last profile.
 Gradient background for the main view.
